@@ -111,6 +111,68 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
 <br/>
 
 
+---
+
+## Projetos em Destaque
+
+<table>
+  <tr>
+    <td valign="top">
+      API de Gerenciamento de Dados com Java e Docker
+      <p>Uma API RESTful robusta para gerenciar uma biblioteca, com foco em boas práticas de arquitetura, persistência de dados e um ambiente totalmente conteinerizado com Docker.</p>
+      <p>
+        <a href="https://github.com/MateusRamosv2/biblioteca" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-%23333?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Tecnologias:</strong><br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td valign="top">
+      API Segura para Controle Financeiro com JWT
+      <p>API RESTful para controle de finanças pessoais, implementando um sistema seguro de autenticação e autorização baseado em Spring Security e JSON Web Tokens (JWT).</p>
+      <p>
+        <a href="https://github.com/Desenvolvimento-Back-End-2025/trabalho-financas-pessoais-MateusRamosv2" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-%23333?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Tecnologias:</strong><br>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/H2_Database-4479A1?style=for-the-badge&logo=h2&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <div align="center">
+        Data Pipeline (Lakehouse) com Databricks
+        <p>Implementação de um pipeline de dados ponta a ponta no Databricks, aplicando a <strong>Arquitetura Medallion (Bronze, Silver, Gold)</strong> para transformar dados brutos de compartilhamento de bicicletas em insights analíticos prontos para consumo.</p>
+        <p>
+          <a href="https://github.com/MateusRamosv2/london-bike-lakehouse" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Repositório-%23333?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </p>
+        <p>
+          <strong>Tecnologias:</strong><br>
+          <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+          <img src="https://img.shields.io/badge/Apache_Parquet-5087D8?style=for-the-badge&logo=apache&logoColor=white" />
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ## Estatísticas
