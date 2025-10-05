@@ -151,23 +151,41 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
-      <div align="center">
-        Data Pipeline (Lakehouse) com Databricks
-        <p>Implementação de um pipeline de dados ponta a ponta no Databricks, aplicando a <strong>Arquitetura Medallion (Bronze, Silver, Gold)</strong> para transformar dados brutos de compartilhamento de bicicletas em insights analíticos prontos para consumo.</p>
-        <p>
-          <a href="https://github.com/MateusRamosv2/london-bike-lakehouse" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Repositório-%23333?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p>
-          <strong>Tecnologias:</strong><br>
-          <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-          <img src="https://img.shields.io/badge/Apache_Parquet-5087D8?style=for-the-badge&logo=apache&logoColor=white" />
-        </p>
-      </div>
+    <td valign="top">
+      Data Pipeline (Lakehouse) com Databricks
+      <p>Implementação de um pipeline de dados ponta a ponta no Databricks, aplicando a <strong>Arquitetura Medallion (Bronze, Silver, Gold)</strong> para transformar dados brutos de compartilhamento de bicicletas em insights analíticos prontos para consumo.</p>
+      <p>
+        <a href="https://github.com/MateusRamosv2/london-bike-lakehouse" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-%23333?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Tecnologias:</strong><br>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache_Parquet-5087D8?style=for-the-badge&logo=apache&logoColor=white" />
+      </p>
+    </td>
+    <td valign="top">
+      Crypto Lakehouse — Bitcoin (Medallion Architecture)
+      <p>Construção de um <strong>pipeline de dados ponta a ponta</strong> no Databricks Free Edition, aplicando a <strong>Arquitetura Medallion (Bronze, Silver, Gold, Insights)</strong> para transformar séries temporais de preços, volume e capitalização do Bitcoin em datasets analíticos prontos para consumo. O foco está na qualidade, governança e escalabilidade do pipeline, demonstrando boas práticas aplicáveis a qualquer domínio de dados.</p>
+      <p>
+        <a href="https://github.com/MateusRamosv2/crypto-lakehouse-bitcoin" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Repositório-%23333?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        <strong>Tecnologias:</strong><br>
+        <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Apache_Parquet-5087D8?style=for-the-badge&logo=apache&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
