@@ -192,7 +192,6 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
 
 ---
 
-
 ## Estatísticas
 
 <p>
@@ -212,3 +211,4 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
   />
 
 </p>
+
