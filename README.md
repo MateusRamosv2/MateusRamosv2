@@ -172,7 +172,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
       Crypto Lakehouse — Bitcoin (Medallion Architecture)
       <p>Construção de um <strong>pipeline de dados ponta a ponta</strong> no Databricks Free Edition, aplicando a <strong>Arquitetura Medallion (Bronze, Silver, Gold, Insights)</strong> para transformar séries temporais de preços, volume e capitalização do Bitcoin em datasets analíticos prontos para consumo. O foco está na qualidade, governança e escalabilidade do pipeline, demonstrando boas práticas aplicáveis a qualquer domínio de dados.</p>
       <p>
-        <a href="https://github.com/MateusRamosv2/crypto-lakehouse-bitcoin" target="_blank">
+        <a href="https://github.com/MateusRamosv2/crypto_lakehouse" target="_blank">
           <img src="https://img.shields.io/badge/Ver%20Repositório-%23333?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
