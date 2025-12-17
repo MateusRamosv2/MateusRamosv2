@@ -18,7 +18,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="Python"
     title="Python" 
-    width="70px" 
+    width="65px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -27,7 +27,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="Java" 
     title="Java"
-    width="70px" 
+    width="65px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
@@ -36,7 +36,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="ApacheSpark" 
     title="ApacheSpark"
-    width="80px" 
+    width="75px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg"
 />
@@ -45,7 +45,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="DataBricks" 
     title="Databricks"
-    width="60px" 
+    width="55px" 
     style="padding-right: 5px;" 
     src="https://github.com/willdegl4n/willdegl4n/blob/main/logos/Databricks.png"
 />
@@ -54,7 +54,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="SqlDeveloper"
     title="SqlDeveloper" 
-    width="60px" 
+    width="55px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
@@ -62,7 +62,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="PostgreSQL"
     title="PostgreSQL" 
-    width="60px" 
+    width="55px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
@@ -72,7 +72,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="Docker" 
     title="Docker"
-    width="60px" 
+    width="55px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" 
 />
@@ -82,7 +82,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="Azure" 
     title="Azure"
-    width="50px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
@@ -90,7 +90,7 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     align="left" 
     alt="AzureDevops"
     title="AzureDevops" 
-    width="50px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" 
 />
