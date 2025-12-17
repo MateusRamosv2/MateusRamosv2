@@ -114,6 +114,8 @@ Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informaçã
     src="https://raw.githubusercontent.com/MateusRamosv2/MateusRamosv2/main/Power-BI.png"
 />
 
+<div style="clear: both;"></div>
+
 
 <br/>
 <br/>
