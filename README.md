@@ -2,7 +2,9 @@
 
 **`Sistemas de Informação`**
 
-Me chamo Mateus Vieira, tenho 23 anos e sou estudante de Sistemas de Informação e estou atualmente no 6º período!
+Atuo há mais de um ano na área de dados, com experiência prática no desenvolvimento e sustentação de pipelines de dados em ambientes corporativos e cloud. Trabalho na ingestão, integração e transformação de grandes volumes de dados, colaborando com áreas de negócio para garantir qualidade, confiabilidade e disponibilidade das informações para a tomada de decisão.
+
+Atuo com Python e SQL, utilizando Apache Spark (PySpark, SparkSQL) e Databricks no ecossistema Azure, participando da construção e sustentação de pipelines ETL. Utilizo Git para versionamento de código, aplicando práticas de DevOps para integração e entrega contínua. Possuo forte base em modelagem e análise de dados, com foco na construção de soluções escaláveis, performáticas e alinhadas às necessidades do negócio.
 
 
 <div> 
